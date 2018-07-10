@@ -1,4 +1,4 @@
-# Test foo
+# Test GitHub Pages URL overlays
 
 Repository: bertfreudenberg/foo
 
