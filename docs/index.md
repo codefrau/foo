@@ -1,1 +1,4 @@
-# Test FOO/BAR
+# Test foo
+
+Repository: foo
+File: docs/index.md
